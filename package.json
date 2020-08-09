@@ -1,0 +1,24 @@
+{
+  "name": "aws-media-sharer-ec2",
+  "version": "1.0.0",
+  "description": "A media sharer platform wich will upload a media file, and put it avaible for different downloads depending in the resolution requested",
+  "main": "index.js",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-console-reporter": "^2.0.1",
+    "standard": "^10.0.3"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiNavDev/aws-media-sharer-ec2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiNavDev/aws-media-sharer-ec2/issues"
+  },
+  "homepage": "https://github.com/MatiNavDev/aws-media-sharer-ec2#readme"
+}
