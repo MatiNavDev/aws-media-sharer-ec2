@@ -1,4 +1,6 @@
 provider "aws" {
   region = var.AWS_REGION
+  AWS_ACCESS_KEY_ID = "AKIAUOSS33FPEOG4MDEL"
+  AWS_SECRET_ACCESS_KEY = "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"
 }
 
